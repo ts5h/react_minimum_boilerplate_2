@@ -9,8 +9,7 @@
     "format": "biome format --write ./src && prettier --write \"./src/**/*.scss\"",
     "lint": "biome lint ./src",
     "lint:fix": "biome check --write ./src",
-    "preview": "vite preview",
-    "start": "pnpm run dev"
+    "preview": "vite preview"
   },
   "dependencies": {
     "jotai": "^2.10.1",
