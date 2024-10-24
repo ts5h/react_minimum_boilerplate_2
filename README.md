@@ -2,8 +2,12 @@
 A React minimum practical boilerplate with the latest packages as of October 25, 2024.
 - vite
 - typescript + SWC
-- sass (Dart Sass)
+- sass *1
 - Biome
+- prettier *2
+
+*1: Dart Sass
+*2: To format .scss files
 
 ## React + TypeScript + Vite
 
