@@ -59,3 +59,15 @@ export default tseslint.config({
   },
 })
 ```
+
+## Update Packages to the Latest Versions
+
+I recommend using `npm-check-updates` package.  
+https://github.com/raineorshine/npm-check-updates
+
+```shell
+$ npm install -g npm-check-updates
+$ ncu
+$ ncu -u
+$ pnpm install
+```
