@@ -1,10 +1,10 @@
 # React Minimum Boilerplate 2
 A React minimum practical boilerplate with the latest packages as of October 25, 2024.
-- vite
+- Vite
 - typescript + SWC
-- sass *1
 - Biome
-- prettier *2
+- Sass *1
+- Prettier *2
 
 *1: Dart Sass
 *2: To format .scss files
