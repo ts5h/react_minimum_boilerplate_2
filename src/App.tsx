@@ -3,7 +3,7 @@ import { useState } from "react";
 import reactLogo from "@/assets/react.svg";
 import viteLogo from "@/assets/vite.svg";
 import { Message } from "@/components/Message";
-import "@/App.scss";
+import "@/scss/App.scss";
 
 export const App = () => {
   const [count, setCount] = useState(0);
