@@ -1,5 +1,5 @@
 # React Minimum Boilerplate 2
-A React minimum practical boilerplate with the latest packages as of October 25, 2024.
+A React minimum practical boilerplate with the latest packages as of December 29, 2024.
 - Vite
 - typescript + SWC
 - Biome
