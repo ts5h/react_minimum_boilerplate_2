@@ -6,13 +6,6 @@ import path from "node:path";
 export default defineConfig({
   // NOTE: Comment out if you want to build using relative paths
   // base: "./",
-  css: {
-    preprocessorOptions: {
-      scss: {
-        api: "modern-compiler",
-      }
-    }
-  },
   plugins: [react()],
   resolve: {
     alias: {
